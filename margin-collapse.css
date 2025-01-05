@@ -1,0 +1,36 @@
+/* Between two adjacent block element */
+.box1{
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+   margin-bottom: 30px;
+}
+.box2{
+    background-color: rgb(75, 75, 172);
+    width: 200px;
+    height: 200px;
+    margin-top: 60px;
+}
+/* Between parent and child */
+.parent{
+    background-color:burlywood;
+    width: 200px;
+    height: 200px;
+   margin-top:80px;
+}
+.child{
+    background-color:brown;
+    width: 100px;
+    height: 100px;
+    margin-top: 30px;
+}
+/* empty element */
+.empty{
+    height: 0;
+    margin-top: 50px;
+    margin-bottom: 400px;
+}
+
+
+
+
